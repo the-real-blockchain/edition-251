@@ -1,0 +1,6 @@
+.DS_Store
+.ipynb_checkpoints
+artifacts
+cache
+node_modules
+package-lock.json
